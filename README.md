@@ -1,4 +1,4 @@
-# bike-rental-starter-kit
+# Bike Data Rental Management
 
 For this project you’ll explore, clean, and merge Citi Bike ridership and NOAA weather data to produce a PostgreSQL database with analytics-ready views.
 
@@ -10,6 +10,7 @@ Use Jupyter notebooks and pandas to explore, clean, and transform datasets
 Design and implement a relational PostgreSQL database
 Use SQL to develop analytics-ready database views
 Complete a portfolio-ready project to showcase your skills!
+
 Prerequisites:
 
 Pandas
